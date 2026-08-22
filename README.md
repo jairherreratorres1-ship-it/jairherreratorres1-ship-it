@@ -1,30 +1,24 @@
-*Hola, mi nombre es Jair Herrera*
+# Hola, soy Jair
 
-**Ingeniería de Sistemas e Informática | Python | Automatización | APIs | Desarrollo de Bots**
+**Ingeniería de Sistemas e Informática | Backend | Python | Automatización | APIs**
 
-Actualmente enfocado en el desarrollo de soluciones de automatización y sistemas orientados a procesos operativos.
+Actualmente orientado al **desarrollo Backend**, construyendo soluciones de automatización e integración de servicios con Python.
 
-Lo que desarrollo
+### Lo que manejo
 
-* Bots y automatizaciones con **Python**
-* Integraciones y consumo de **APIs**
-* Procesamiento, validación y gestión de datos
-* Arquitectura modular y organización de proyectos
-* Integración con servicios externos y bases de datos
-* Soluciones de análisis y visualización con **Power BI**
-
-### Tecnologías
-
-**Python · PostgreSQL · SQL Server · Google APIs · Telegram API · Power BI · Power Automate · Git · GitHub · Linux**
-
-Tengo experiencia trabajando con **Git/GitHub**, control de versiones, organización de repositorios y manejo de dependencias y configuraciones por entorno.
+* Desarrollo de Bots y automatizaciones con Python
+* Desarrollo e integración de APIs
+* Arquitectura y organización de proyectos
+* Bases de datos: PostgreSQL y SQL Server
+* Git y GitHub
+* Linux y despliegue de aplicaciones
+* Power BI y herramientas de automatización
 
 ### Deploy & Cloud
 
-Varios de mis proyectos han sido llevados a producción mediante **Oracle Cloud Infrastructure (OCI)** sobre servidores **Ubuntu**, realizando configuración del entorno, instalación de dependencias, ejecución de servicios y mantenimiento de aplicaciones.
+Varios proyectos han sido desplegados en **Oracle Cloud Infrastructure (OCI)** sobre **Ubuntu**, realizando configuración de entornos, dependencias, servicios y ejecución de aplicaciones.
 
-### Actualmente
+### En evolución
 
-Continúo fortaleciendo mis conocimientos en **arquitectura de software, buenas prácticas, APIs, bases de datos, concurrencia, automatización y despliegue de aplicaciones**.
+Actualmente continúo fortaleciendo mis conocimientos en **arquitectura Backend, bases de datos, APIs, concurrencia, buenas prácticas y despliegue de aplicaciones**, buscando convertir cada proyecto en una solución más robusta y escalable.
 
-> Mi objetivo es seguir construyendo soluciones reales, mejorar progresivamente su arquitectura y convertir cada proyecto en una oportunidad de aprendizaje.
