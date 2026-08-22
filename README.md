@@ -15,7 +15,7 @@ Lo que desarrollo
 
 ### Tecnologías
 
-**Python · PostgreSQL · SQLite · Google APIs · Telegram API · Power BI · Power Automate · SharePoint · Git · GitHub · Linux**
+**Python · PostgreSQL · SQL Server · Google APIs · Telegram API · Power BI · Power Automate · Git · GitHub · Linux**
 
 Tengo experiencia trabajando con **Git/GitHub**, control de versiones, organización de repositorios y manejo de dependencias y configuraciones por entorno.
 
