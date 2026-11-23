@@ -13,10 +13,12 @@ Actualmente orientado al **desarrollo Backend**, construyendo soluciones de auto
 * Git y GitHub
 * Linux y despliegue de aplicaciones
 * Power BI y herramientas de automatización
+* EC2 - AWS
+* Soluciones integradas en ambientes de Microsoft 365
 
 ### Deploy & Cloud
 
-Varios proyectos han sido desplegados en **Oracle Cloud Infrastructure (OCI)** sobre **Ubuntu**, realizando configuración de entornos, dependencias, servicios y ejecución de aplicaciones.
+Varios proyectos han sido desplegados en **Oracle Cloud Infrastructure (OCI)** sobre **Ubuntu**,y **AWS** realizando configuración de entornos, dependencias, servicios y ejecución de aplicaciones.
 
 ### En evolución
 
